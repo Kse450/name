@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    padding:25px;
+    text-align: center;
+}
+
+header {
+    background-color: powderblue;
+    color: azure;
+    padding:5px;
+}
+
+header a {
+    text-decoration: none;
+    color: darkcyan;
+    margin:20px;
+}
+
+main h1 {
+    text-align: center;
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:40px;
+    border:10px dotted teal;
+    background-color:powderblue;
+}
+
+footer {
+    background-color: teal;
+    color: azure;
+    padding:4px;
+    border:15px dotted powderblue;
+}
+
+footer p {
+    text-align: center;
+    font-size:20px;
+    color: azure;
+    border:5px dotted powderblue;
+}
+
+.MYA {
+    border:5px solid teal;
+    background-color:powderblue;
+    color: azure;
+    text-align: center;
+}
